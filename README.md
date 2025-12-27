@@ -49,7 +49,7 @@ These ROI meshes are the direct inputs used for rim detection and depth estimati
 ---
 
 ### 3) Ryugu global mesh with crater scalar labels (ZIP)
-File: **`ryugu_with_77_craters.vtk.zip
+File: **`ryugu_with_77_craters.vtk.zip`
 
 This archive contains a **Ryugu global shape model mesh** where the **77 craters are encoded as scalar data** on the mesh (e.g., a scalar array such as `crater_id` or `crater_index`).  
 This enables visualization of crater locations directly on the full-body model (e.g., in ParaView or PyVista).
